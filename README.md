@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors
-
+https://sehaj97.github.io/JS-rock-paper-scissor/
 In this activity, you will use functions to create a simple Rock Paper Scissors game.
 
 ## Instructions
@@ -25,6 +25,3 @@ In this activity, you will use functions to create a simple Rock Paper Scissors 
 * Paper: wins against rock, loses to scissors, and ties against itself.
 
 * Scissors: wins against paper, loses to rock, and ties against itself.
-
----
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
